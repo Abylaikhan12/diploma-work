@@ -7,6 +7,7 @@
 
 ![screen for project-1]([https://github.com/Abylaikhan12/diploma-work/blob/main/1.png)
 
+
 ![screen for project-2](https://github.com/Abylaikhan12/diploma-work/blob/main/2.png)
 
 ![screen for project-3](https://github.com/Abylaikhan12/diploma-work/blob/main/3.png)
