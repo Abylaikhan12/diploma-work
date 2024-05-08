@@ -4,9 +4,7 @@
 # Goal
   Our project aims to create a tool for entrepreneurs, providing convenient financial management, calendar integration, and data visualization for effective analysis of income and   expenses.
 
-
 ![screen for project-1]([https://github.com/Abylaikhan12/diploma-work/blob/main/1.png)
-
 
 ![screen for project-2](https://github.com/Abylaikhan12/diploma-work/blob/main/2.png)
 
