@@ -5,6 +5,8 @@
   Our project aims to create a tool for entrepreneurs, providing convenient financial management, calendar integration, and data visualization for effective analysis of income and   expenses.
 
 ![screen for project-1]([https://github.com/Abylaikhan12/diploma-work/blob/main/photo_2024-05-08_17-16-24.png
+![screen for project-2](https://github.com/Abylaikhan12/diploma-work/blob/main/photo_2024-05-08_17-16-24.png
+![screen for project-3(https://github.com/Abylaikhan12/diploma-work/blob/main/photo_2024-05-08_17-16-31.png
 
 
 # Mentor
