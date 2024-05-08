@@ -4,6 +4,10 @@
 # Goal
   Our project aims to create a tool for entrepreneurs, providing convenient financial management, calendar integration, and data visualization for effective analysis of income and   expenses.
 
+  ![screen for project-1](https://[github.com/{username}/{repository}/raw/{branch}/{path}/image.png](https://github.com/Abylaikhan12/diploma-work/blob/main/photo_2024-05-08_17-16-24.jpg)
+  ![screen for project-2](https://[github.com/{username}/{repository}/raw/{branch}/{path}/image.png)](https://github.com/Abylaikhan12/diploma-work/blob/main/photo_2024-05-08_17-16-27.jpg)
+  ![screen for project-3](https://[github.com/{username}/{repository}/raw/{branch}/{path}/image.png)](https://github.com/Abylaikhan12/diploma-work/blob/main/photo_2024-05-08_17-16-31.jpg)
+
 # Mentor
 - Supervisor: Assyl Abilakim - assyl.abilakim@sdu.edu.kz
 
