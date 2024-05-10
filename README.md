@@ -22,4 +22,4 @@
 - 200103179 - Sanzhar Islyamkhanov
 
 # Presentation
-  Link to <a href="">presentation</a>
+  Link to <a href="https://www.canva.com/design/DAGEoronkeI/hpc7eHMRGub9RZ8nzwwQuQ/edit">presentation</a>
